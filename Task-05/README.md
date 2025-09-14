@@ -1,0 +1,1 @@
+In this project i have created a quiz machine which we have to answer within a limited time i had faced a little bit of problem on the code but as of now its been cleared .I have established my fundamentals in python commands and how to do the above mentioned task
