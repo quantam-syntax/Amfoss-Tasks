@@ -307,7 +307,7 @@ async def help_command(interaction: discord.Interaction):
 
 
 
-client.run('MTQxMjg1MzQzNjIzNTM4MzA0NA.Gz3mDj.4UybNxvUJC0S7KNEWxzNS1eiyw_YpKpgxNShNw')
+client.run('')
 
 
 
