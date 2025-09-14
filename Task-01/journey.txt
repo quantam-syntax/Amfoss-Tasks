@@ -19,3 +19,35 @@ Found the Garagantua System
 Found habitable zone in Gargantua/HABITABLE.txt
 Clue: "Yes. This zone is habitable. Breathe easy..."
 
+
+One last task, and you'll have successfully completed the Terminal Hunt! Run gravity, and add a screenshot to solutil�s.md
+
+Initializing final transmission...
+Decrypting gravitational data from Gargantua...
+Wormhole navigation logs verified.
+Mission status: ✅ SUCCESS
+
+Time is relative, but your achievement is absolute.
+After journeying through dust storms, wormholes, and habitable thresholds...
+You've solved the final riddle, aligned the gravity equation, and made contact with Earth.
+
+🌌 A new chapter begins...
+
+🎉 Congratulations, quantam-syntax!
+
+You've successfully completed the Terminal Hunt and proved you're ready to explore the universe with
+
+		                               .+++++++++===-     ...  ...          :=++=:       :=+=-
+		                               .@@@@@@@@@@@@*    .---. ---:.     .%@@@@@@@@@: :@@@@@@@@@@
+	    .:*%@@@%#=.   =***-.=#%#=..:+##+:. .@@@%==++++++-  .---:.   .---:.  .@@@@:  -%+. .@@@@: .=@=
+	   :@@@@@##@@@@#  *@@@@@@@@@@@@@@@@@@% .@@@@***+++:  .---:.       .---:..%@@@@#=.    .%@@@%*=
+		 .=%@@@@  *@@@@:  @@@@@. +@@@@:.@@@@@@@@@@- :---.           .---. =@@@@@@@@.   +@@@@@@@%
+	   .#@@@@@%#@@@@  *@@@%   @@@@.  =@@@@-.@@@%======:  :---:.       .----.      :+@@@@.      :*@@@@
+	   %@@@%    @@@@  *@@@%   @@@@.  =@@@@-.@@@%           .---:.   .----..  -@@*-.:%@@@. .@@*:.:@@@%
+	   %@@@%    @@@@  *@@@%   @@@@.  =@@@@-.@@@%             .---. :---.     :@@@@@@@@@@. -@@@@@@@@@#
+	   +@@@@@@@@@@@@  *@@@%  .@@@@.  =@@@@-.@@@%               .:. .:.          .:---.       .:--:.
+	
+This is just the beginning of your voyage. The stars await, but so does the codebase.
+Keep exploring, keep building — your journey with amFOSS has just begun  🚀
+
+Press 'q' to quit...
