@@ -35,6 +35,6 @@ My statistics are as shown:
 | Task-05   | TimeTickQuiz CLI                    |  Completed   |
 | Task-06   | LyricLounge Discord bot             |  Completed   |
 | Task-07   | WordRush Mobile app                 |  Not Attempted |
-| Task-08   | OpenCV Treasure Map                 |  Not Attempted |
+| Task-08   | OpenCV Treasure Map                 |  Completed   |
 | Task-09   | SysForge challenge                  |  Not Attempted |
 | Task-10   | BattleCraft: Daily CSS Challenges   |  Completed   |
